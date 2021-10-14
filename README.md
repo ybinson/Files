@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/ybinson/files/README.md
+https://cdn.jsdelivr.net/gh/ybinson/Files/README.md
