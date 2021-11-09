@@ -1,0 +1,34 @@
+{
+	"servers": [
+		{
+			"disabled": true,
+			"username": "user0",
+			"name": "VPS-API",
+			"type": "kvm",
+			"host": "1.1.1.1",
+			"location": "CN",
+			"password": "USER_DEFAULT_PASSWORD",
+			"monthstart": 1
+		},
+		{
+			"disabled": false,
+			"username": "user1",
+			"name": "VPS-WEB",
+			"type": "kvm",
+			"host": "1.1.1.1",
+			"location": "HK",
+			"password": "USER_DEFAULT_PASSWORD",
+			"monthstart": 1
+		},
+		{
+			"disabled": false,
+			"username": "user2",
+			"name": "VPS-FQ",
+			"type": "kvm",
+			"host": "1.1.1.1",
+			"location": "US",
+			"password": "USER_DEFAULT_PASSWORD",
+			"monthstart": 1
+		}
+	]
+}
