@@ -9,7 +9,7 @@ CCTV5+,http://39.134.18.114:80/wh7f454c46tw3079560693_-675098641/dbiptv.sn.china
 CCTV5,http://39.134.18.113:80/wh7f454c46tw3005771733_-1521645805/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 CCTV6,http://39.134.18.68:80/wh7f454c46tw3181576686_278313979/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV7,http://39.134.18.116:80/wh7f454c46tw3281866654_1270965930/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/index.m3u8
-CCTV8,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
+CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV9,http://39.134.18.120:80/wh7f454c46tw3369512769_39770195/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8
 CCTV10,http://39.134.18.118:80/wh7f454c46tw3431486794_1568127109/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/index.m3u8
 CCTV11,http://39.134.18.117:80/wh7f454c46tw3489734752_972532156/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
