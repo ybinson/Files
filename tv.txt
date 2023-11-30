@@ -195,7 +195,7 @@ CCTV17,http://angtv.cc/test/lngd.php?id=204
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 河北卫视,https://iptv.luas.edu.cn/liverespath/0d0303a991ca71e06290b546e34104dbe0d0c64a/54a030f75d-0-0-ac902176c92b83fa2ff9f4b308255ef9/index.m3u8
 
-坚哥地方台频道,#genre#
+坚哥-地方台频道,#genre#
 溧水影视娱乐,http://live.lsrmw.cn/ysyl/sd/live.m3u8
 溧水新闻综合,http://live.lsrmw.cn/zhpd/sd/live.m3u8
 潍坊-青州新闻,http://sdqz.chinashadt.com:2036/live/stream:1.stream_360p/playlist.m3u8
